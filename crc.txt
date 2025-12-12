@@ -1,1 +1,15 @@
 Hai Gayathri,
+
+ndentation and structure cleaned
+
+Your old version was messy and hard to maintain.
+
+✔ OTA flow clearly separated
+
+Each step prints and checks properly.
+
+✔ No half-executed OTA
+
+If any stage fails → APP1 is booted safely.
+
+✔ Prevents code duplication
